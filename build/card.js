@@ -4,7 +4,7 @@
 
   React = require('react');
 
-  Payment = require('payment');
+  Payment = require('payment/src');
 
   images = require('./card-images.js');
 
