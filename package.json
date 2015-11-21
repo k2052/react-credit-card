@@ -30,6 +30,6 @@
     "react": "^0.12.2"
   },
   "dependencies": {
-    "payment": "0.0.5"
+    "payment": "^0.0.10"
   }
 }
